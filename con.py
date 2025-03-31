@@ -1,2 +1,2 @@
-sender = 'anshjaat7102010@gmail.com'
+sender = 'it's your email'
 password ='password'
